@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/-Python-f7df1c?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-51F02D?style=for-the-badge&logo=django&logoColor=ffffff)
 ![DRF](https://img.shields.io/badge/-DRF-760000?style=for-the-badge&logo=django&logoColor=ffffff)
-![FastApi](https://img.shields.io/badge/-FastApi-2e303e?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Celery](https://img.shields.io/badge/-Celery-1D8CE0?style=for-the-badge&logo=celery&logoColor=ffffff)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-5121b8?style=for-the-badge&logo=SqlAlchemy)
 
@@ -28,7 +27,7 @@
 ![Github](https://img.shields.io/badge/-Github-0d1117?style=for-the-badge&logo=github&logoColor)
 
 ### Learning
-
+![FastApi](https://img.shields.io/badge/-FastApi-2e303e?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/vapmak)
