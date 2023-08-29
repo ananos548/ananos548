@@ -32,5 +32,4 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/vapmak)
-[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=47c5fb)](https://vk.com/m88005553535)
-
+[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=vk&logoColor=47c5fb)](https://vk.com/lllllllluwulllllll)
