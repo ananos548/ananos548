@@ -27,7 +27,7 @@
 ![Github](https://img.shields.io/badge/-Github-0d1117?style=for-the-badge&logo=github&logoColor)
 
 ### Learning
-![Go](https://img.shields.io/badge/-Go-555555?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/-java-ffae00?style=for-the-badge&logo=java)
 
 
 ### Follow me
